@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <WinCardio>
 	<Frases>
@@ -670,3 +671,677 @@ OBS: ECG realizado às</TEXTO>
 		</frase>
 	</Frases>
 </WinCardio>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WinCardio>
+	<Frases>
+	   <frase>
+			<ID>ID</ID>
+			<IDGRUPO>IDGrupo</IDGRUPO>
+			<TÍTULO>Título</TÍTULO>Títulos
+			<TEXTO>Texto</TEXTO>
+		</frase>
+		<frase>
+			<ID>19</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>01 - Ritmo</TÍTULO>
+			<TEXTO/>
+		</frase>
+		<frase>
+			<ID>52</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>outros</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>53</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>intervalo PR no limite superior</TÍTULO>
+			<TEXTO>INTERVALO PR NO LIMITE SUPERIOR DA NORMALIDADE.</TEXTO>
+		</frase>
+		<frase>
+			<ID>54</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>sobrecarga esquerda</TÍTULO>
+			<TEXTO>SOBRECARGA DE CÂMARAS ESQUERDAS</TEXTO>
+		</frase>
+		<frase>
+			<ID>55</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>eixo a esquerda</TÍTULO>
+			<TEXTO>EIXO ELÉTRICO DESVIADO À ESQUERDA</TEXTO>
+		</frase>
+		<frase>
+			<ID>56</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>arritmia sinusal</TÍTULO>
+			<TEXTO>ARRITMIA SINUSAL FÁSICA</TEXTO>
+		</frase>
+		<frase>
+			<ID>57</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>00 - Laudo Completo</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>58</ID>
+			<IDGRUPO>57</IDGRUPO>
+			<TÍTULO>Normal</TÍTULO>
+			<TEXTO>
+			ELETROCARDIOGRAMA DE REPOUSO
+
+LAUDO
+
+
+RITMO:
+Ritmo sinusal.
+
+DURAÇÃO E ORIENTAÇÃO:
+
+Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
+
+Duração P:  &lt;@DuracaoP@&gt; 
+Amplitude P:  &lt;@AmplitudeP_DII@&gt;  
+Intervalo PR:  &lt;@DuracaoPR@&gt; 
+Duração QRS:  &lt;@DuracaoQRS@&gt; 
+Eixos P-QRS-T:  &lt;@SAP@&gt; / &lt;@SAQRS@&gt; / &lt;@SAT@&gt; 
+Intervalo QT/QTc:  &lt;@DuracaoQT@&gt; / &lt;@DuracaoQTC@&gt; 
+
+
+CONCLUSÃO:
+
+RITMO SINUSAL
+ELETROCARDIOGRAMA DENTRO DOS LIMITES  DA NORMALIDADE PARA SEXO, IDADE E BIOTIPO</TEXTO>
+		</frase>
+		<frase>
+			<ID>59</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>ritmo atrial ectópico</TÍTULO>
+			<TEXTO>RITMO ATRIAL ECTÓPICO</TEXTO>
+		</frase>
+		<frase>
+			<ID>60</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>05 - Bloqueio de ramo/atraso</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>61</ID>
+			<IDGRUPO>60</IDGRUPO>
+			<TÍTULO>1- BRE
+</TÍTULO>
+			<TEXTO>BLOQUEIO DO RAMO ESQUERDO</TEXTO>
+		</frase>
+		<frase>
+			<ID>62</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>Brugada</TÍTULO>
+			<TEXTO>PADRÃO SUGESTIVO DE SÍNDROME DE BRUGADA TIPO 1</TEXTO>
+		</frase>
+		<frase>
+			<ID>63</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>06 - alteração repolarização</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>64</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>inespecífica</TÍTULO>
+			<TEXTO>ALTERAÇÕES INESPECÍFICAS DA REPOLARIZAÇÃO VENTRICULAR</TEXTO>
+		</frase>
+		<frase>
+			<ID>65</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>repolarização precoce</TÍTULO>
+			<TEXTO>PADRÃO DE REPOLARIZAÇÃO VENTRICULAR PRECOCE</TEXTO>
+		</frase>
+		<frase>
+			<ID>66</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>03 - Sobrecarga atrial</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>67</ID>
+			<IDGRUPO>66</IDGRUPO>
+			<TÍTULO>SAD</TÍTULO>
+			<TEXTO>SOBRECARGA ATRIAL DIREITA</TEXTO>
+		</frase>
+		<frase>
+			<ID>68</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>secundárias</TÍTULO>
+			<TEXTO>ALTERAÇÕES SECUNDÁRIAS DA REPOLARIZAÇÃO VENTRICULAR</TEXTO>
+		</frase>
+		<frase>
+			<ID>69</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>08 - Arritmia</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>70</ID>
+			<IDGRUPO>69</IDGRUPO>
+			<TÍTULO>ESV</TÍTULO>
+			<TEXTO>EXTRASSISTOLIA SUPRAVENTRICULAR</TEXTO>
+		</frase>
+		<frase>
+			<ID>71</ID>
+			<IDGRUPO>69</IDGRUPO>
+			<TÍTULO>EV</TÍTULO>
+			<TEXTO>EXTRASSISTOLIA VENTRICULAR</TEXTO>
+		</frase>
+		<frase>
+			<ID>72</ID>
+			<IDGRUPO>57</IDGRUPO>
+			<TÍTULO>FA</TÍTULO>
+			<TEXTO>
+         ELETROCARDIOGRAMA DE REPOUSO
+
+LAUDO
+
+RITMO:
+Ritmo de fibrilação atrial.
+
+DURAÇÃO E ORIENTAÇÃO:
+
+Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
+
+Duração P:  *
+Amplitude P:  *
+Intervalo PR:  *
+Duração QRS:   &lt;@DuracaoQRS@&gt;  
+Eixos P-QRS-T:  */ &lt;@SAQRS@&gt; / &lt;@SAT@&gt;  
+
+
+CONCLUSÃO:
+
+RITMO DE FIBRILAÇÃO ATRIAL
+</TEXTO>
+		</frase>
+		<frase>
+			<ID>73</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>09 - conclusão
+</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>74</ID>
+			<IDGRUPO>73</IDGRUPO>
+			<TÍTULO>taquicardia
+</TÍTULO>
+			<TEXTO>TAQUICARDIA SINUSAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>75</ID>
+			<IDGRUPO>66</IDGRUPO>
+			<TÍTULO>SBIATRIAL
+</TÍTULO>
+			<TEXTO>SOBRECARGA BIATRIAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>76</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>discretas e inespecíficas
+</TÍTULO>
+			<TEXTO>ALTERAÇÕES DISCRETAS E INESPECÍFICAS DA REPOLARIZAÇÃO VENTRICULAR
+</TEXTO>
+		</frase>
+		<frase>
+			<ID>77</ID>
+			<IDGRUPO>57</IDGRUPO>
+			<TÍTULO>alterado</TÍTULO>
+			<TEXTO>
+			ELETROCARDIOGRAMA DE REPOUSO
+
+LAUDO
+
+
+RITMO:
+Ritmo sinusal.
+
+DURAÇÃO E ORIENTAÇÃO:
+
+Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
+
+Duração P:  &lt;@DuracaoP@&gt; 
+Amplitude P:  &lt;@AmplitudeP_DII@&gt;  
+Intervalo PR:  &lt;@DuracaoPR@&gt; 
+Duração QRS:  &lt;@DuracaoQRS@&gt; 
+Eixos P-QRS-T:  &lt;@SAP@&gt; / &lt;@SAQRS@&gt; / &lt;@SAT@&gt; 
+Intervalo QT/QTc:  &lt;@DuracaoQT@&gt; / &lt;@DuracaoQTC@&gt; 
+
+
+CONCLUSÃO:
+
+RITMO SINUSAL
+</TEXTO>
+		</frase>
+		<frase>
+			<ID>78</ID>
+			<IDGRUPO>73</IDGRUPO>
+			<TÍTULO>atrial ectópico
+</TÍTULO>
+			<TEXTO>RITMO ATRIAL ECTÓPICO</TEXTO>
+		</frase>
+		<frase>
+			<ID>79</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>MCP</TÍTULO>
+			<TEXTO>ESTIMULAÇÃO ELÉTRICA CARDÍACA ARTIFICIAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>80</ID>
+			<IDGRUPO>57</IDGRUPO>
+			<TÍTULO>marcapasso</TÍTULO>
+			<TEXTO>
+			ELETROCARDIOGRAMA DE REPOUSO
+
+LAUDO
+
+RITMO:
+Ritmo comandado por marcapasso artificial.
+
+
+DURAÇÃO E ORIENTAÇÃO:
+
+ Frequência cardíaca: &lt;@FrequênciaCardíaca@&gt; 
+
+
+
+CONCLUSÃO:
+
+ESTIMULAÇÃO ELÉTRICA CARDÍACA ARTIFICIAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>81</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>04 - Sobrecarga Ventricular</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>82</ID>
+			<IDGRUPO>81</IDGRUPO>
+			<TÍTULO>SVE</TÍTULO>
+			<TEXTO>SOBRECARGA VENTRICULAR ESQUERDA</TEXTO>
+		</frase>
+		<frase>
+			<ID>83</ID>
+			<IDGRUPO>81</IDGRUPO>
+			<TÍTULO>SVD</TÍTULO>
+			<TEXTO>SOBRECARGA VENTRICULAR DIREITA</TEXTO>
+		</frase>
+		<frase>
+			<ID>84</ID>
+			<IDGRUPO>81</IDGRUPO>
+			<TÍTULO>SBVENTRICULAR</TÍTULO>
+			<TEXTO>SOBRECARGA BIVENTRICULAR</TEXTO>
+		</frase>
+		<frase>
+			<ID>85</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>eixo a direita</TÍTULO>
+			<TEXTO>EIXO ELÉTRICO DESVIADO A DIREITA</TEXTO>
+		</frase>
+		<frase>
+			<ID>86</ID>
+			<IDGRUPO>66</IDGRUPO>
+			<TÍTULO>SAE</TÍTULO>
+			<TEXTO>SOBRECARGA ATRIAL ESQUERDA</TEXTO>
+		</frase>
+		<frase>
+			<ID>87</ID>
+			<IDGRUPO>60</IDGRUPO>
+			<TÍTULO>3 - atraso final</TÍTULO>
+			<TEXTO>ATRASO FINAL DA CONDUÇÃO INTRAVENTRICULAR</TEXTO>
+		</frase>
+		<frase>
+			<ID>88</ID>
+			<IDGRUPO>60</IDGRUPO>
+			<TÍTULO>4 - BDAS</TÍTULO>
+			<TEXTO>BLOQUEIO DIVISIONAL ANTEROSSUPERIOR DO RAMO ESQUERDO</TEXTO>
+		</frase>
+		<frase>
+			<ID>89</ID>
+			<IDGRUPO>60</IDGRUPO>
+			<TÍTULO>6 - BDPI</TÍTULO>
+			<TEXTO>BLOQUEIO DIVISIONAL POSTEROINFERIOR DO RAMO ESQUERDO</TEXTO>
+		</frase>
+		<frase>
+			<ID>90</ID>
+			<IDGRUPO>60</IDGRUPO>
+			<TÍTULO>5 - BDAM</TÍTULO>
+			<TEXTO>BLOQUEIO DIVISIONAL ANTEROMEDIAL DO RAMO ESQUERDO</TEXTO>
+		</frase>
+		<frase>
+			<ID>91</ID>
+			<IDGRUPO>60</IDGRUPO>
+			<TÍTULO>2 - BRD</TÍTULO>
+			<TEXTO>BLOQUEIO DO RAMO DIREITO</TEXTO>
+		</frase>
+		<frase>
+			<ID>92</ID>
+			<IDGRUPO>60</IDGRUPO>
+			<TÍTULO>8 - BDSD</TÍTULO>
+			<TEXTO>BLOQUEIO DIVISIONAL SUPERIOR DIREITO</TEXTO>
+		</frase>
+		<frase>
+			<ID>93</ID>
+			<IDGRUPO>60</IDGRUPO>
+			<TÍTULO>7 - BDID</TÍTULO>
+			<TEXTO>BLOQUEIO DIVISIONAL INFERIOR DIREITO</TEXTO>
+		</frase>
+		<frase>
+			<ID>94</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>laudo pesquisa clinica</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>95</ID>
+			<IDGRUPO>94</IDGRUPO>
+			<TÍTULO>normal</TÍTULO>
+			<TEXTO>
+			ELETROCARDIOGRAMA DE REPOUSO
+
+LAUDO
+
+
+RITMO:
+Ritmo sinusal.
+
+DURAÇÃO E ORIENTAÇÃO:
+
+Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
+
+Duração P:  &lt;@DuracaoP@&gt; 
+Amplitude P:  &lt;@AmplitudeP_DII@&gt; 
+Intervalo PR:  &lt;@DuracaoPR@&gt; 
+Duração QRS:  &lt;@DuracaoQRS@&gt; 
+Eixos P-QRS-T:  &lt;@SAP@&gt; / &lt;@SAQRS@&gt; / &lt;@SAT@&gt; 
+Intervalo QT/QTcF:  &lt;@DuracaoQT@&gt; /  ms
+
+
+CONCLUSÃO:
+
+RITMO SINUSAL
+ELETROCARDIOGRAMA DENTRO DOS LIMITES DE NORMALIDADE PARA O SEXO, IDADE E BIOTIPO
+
+OBS: ECG realizado às</TEXTO>
+		</frase>
+		<frase>
+			<ID>96</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>07 - Zona inativa</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>97</ID>
+			<IDGRUPO>96</IDGRUPO>
+			<TÍTULO>inferior</TÍTULO>
+			<TEXTO>ÁREA ELETRICAMENTE INATIVA INFERIOR</TEXTO>
+		</frase>
+		<frase>
+			<ID>98</ID>
+			<IDGRUPO>96</IDGRUPO>
+			<TÍTULO>anteroseptal</TÍTULO>
+			<TEXTO>ÁREA ELETRICAMENTE INATIVA ANTEROSSEPTAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>99</ID>
+			<IDGRUPO>96</IDGRUPO>
+			<TÍTULO>redução de forças septais</TÍTULO>
+			<TEXTO>REDUÇÃO DE FORÇAS ELÉTRICAS SEPTAIS</TEXTO>
+		</frase>
+		<frase>
+			<ID>100</ID>
+			<IDGRUPO>96</IDGRUPO>
+			<TÍTULO>anterior</TÍTULO>
+			<TEXTO>ÁREA ELETRICAMENTE INATIVA EM PAREDE ANTERIOR</TEXTO>
+		</frase>
+		<frase>
+			<ID>101</ID>
+			<IDGRUPO>96</IDGRUPO>
+			<TÍTULO>anterolateral</TÍTULO>
+			<TEXTO>ÁREA ELETRICAMENTE INATIVA ANTEROLATERAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>102</ID>
+			<IDGRUPO>73</IDGRUPO>
+			<TÍTULO>morfologicamente normal</TÍTULO>
+			<TEXTO>TRAÇADO MORFOLOGICAMENTE NORMAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>103</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>inf+lateral</TÍTULO>
+			<TEXTO>ALTERAÇÃO DA REPOLARIZAÇÃO VENTRICULAR EM PAREDES INFERIOR E ANTEROLATERAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>104</ID>
+			<IDGRUPO>57</IDGRUPO>
+			<TÍTULO>bradicardia/normal</TÍTULO>
+			<TEXTO>
+			ELETROCARDIOGRAMA DE REPOUSO
+
+LAUDO
+
+
+RITMO:
+Ritmo sinusal.
+
+DURAÇÃO E ORIENTAÇÃO:
+
+Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
+
+Duração P:  &lt;@DuracaoP@&gt; 
+Amplitude P:  &lt;@AmplitudeP_DII@&gt;  
+Intervalo PR:  &lt;@DuracaoPR@&gt; 
+Duração QRS:  &lt;@DuracaoQRS@&gt; 
+Eixos P-QRS-T:  &lt;@SAP@&gt; / &lt;@SAQRS@&gt; / &lt;@SAT@&gt; 
+Intervalo QT/QTc:  &lt;@DuracaoQT@&gt; / &lt;@DuracaoQTC@&gt; 
+
+
+CONCLUSÃO:
+
+BRADICARDIA SINUSAL
+ELETROCARDIOGRAMA MORFOLOGICAMENTE NORMAL PARA IDADE, SEXO E BIOTIPO</TEXTO>
+		</frase>
+		<frase>
+			<ID>105</ID>
+			<IDGRUPO>19</IDGRUPO>
+			<TÍTULO>atrial ectópico</TÍTULO>
+			<TEXTO>Ritmo atrial ectópico.</TEXTO>
+		</frase>
+		<frase>
+			<ID>106</ID>
+			<IDGRUPO>96</IDGRUPO>
+			<TÍTULO>lateral alta</TÍTULO>
+			<TEXTO>ÁREA ELETRICAMENTE INATIVA LATERAL ALTA</TEXTO>
+		</frase>
+		<frase>
+			<ID>107</ID>
+			<IDGRUPO>96</IDGRUPO>
+			<TÍTULO>inferodorsal</TÍTULO>
+			<TEXTO>ÁREA ELETRICAMENTE INATIVA INFERODORSAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>108</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>difusa</TÍTULO>
+			<TEXTO>ALTERAÇÃO DIFUSA DA REPOLARIZAÇÃO VENTRICULAR</TEXTO>
+		</frase>
+		<frase>
+			<ID>109</ID>
+			<IDGRUPO>94</IDGRUPO>
+			<TÍTULO>alterado</TÍTULO>
+			<TEXTO>
+			ELETROCARDIOGRAMA DE REPOUSO
+
+LAUDO
+
+
+RITMO:
+Ritmo sinusal.
+
+DURAÇÃO E ORIENTAÇÃO:
+
+Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
+
+Duração P:  &lt;@DuracaoP@&gt; 
+Amplitude P:  &lt;@AmplitudeP_DII@&gt; 
+Intervalo PR:  &lt;@DuracaoPR@&gt; 
+Duração QRS:  &lt;@DuracaoQRS@&gt; 
+Eixos P-QRS-T:  &lt;@SAP@&gt; / &lt;@SAQRS@&gt; / &lt;@SAT@&gt; 
+Intervalo QT/QTcF:  &lt;@DuracaoQT@&gt; /  ms
+
+
+CONCLUSÃO:
+
+RITMO SINUSAL
+
+OBS: ECG realizado às</TEXTO>
+		</frase>
+		<frase>
+			<ID>110</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>difusa e discreta</TÍTULO>
+			<TEXTO>ALTERAÇÃO DISCRETA E DIFUSA DA REPOLARIZAÇÃO VENTRICULAR</TEXTO>
+		</frase>
+		<frase>
+			<ID>111</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>inferior</TÍTULO>
+			<TEXTO>ALTERAÇÃO DA REPOLARIZAÇÃO VENTRICULAR EM PAREDE INFERIOR</TEXTO>
+		</frase>
+		<frase>
+			<ID>112</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>anterosseptal</TÍTULO>
+			<TEXTO>ALTERAÇÃO DA REPOLARIZAÇÃO VENTRICULAR EM PAREDE ANTEROSSEPTAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>113</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>anterior</TÍTULO>
+			<TEXTO>ALTERAÇÃO DA REPOLARIZAÇÃO VENTRICULAR EM PAREDE ANTERIOR</TEXTO>
+		</frase>
+		<frase>
+			<ID>114</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>anterolateral</TÍTULO>
+			<TEXTO>ALTERAÇÃO DA REPOLARIZAÇÃO VENTRICULAR EM PAREDE ANTEROLATERAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>115</ID>
+			<IDGRUPO>-1</IDGRUPO>
+			<TÍTULO>02- Condução AV</TÍTULO>
+			<TEXTO>0</TEXTO>
+		</frase>
+		<frase>
+			<ID>116</ID>
+			<IDGRUPO>115</IDGRUPO>
+			<TÍTULO>BAV 1 grau</TÍTULO>
+			<TEXTO>BLOQUEIO ATRIOVENTRICULAR DO PRIMEIRO GRAU</TEXTO>
+		</frase>
+		<frase>
+			<ID>117</ID>
+			<IDGRUPO>115</IDGRUPO>
+			<TÍTULO>BAV 2 GRAU tipo I</TÍTULO>
+			<TEXTO>BLOQUEIO ATRIOVENTRICULAR DO SEGUNDO GRAU TIPO I (MOBITZ I)</TEXTO>
+		</frase>
+		<frase>
+			<ID>118</ID>
+			<IDGRUPO>115</IDGRUPO>
+			<TÍTULO>BAV 2 GRAU tipo II</TÍTULO>
+			<TEXTO>BLOQUEIO ATRIOVENTRICULAR DO SEGUNDO GRAU TIPO II (MOBITZ II)</TEXTO>
+		</frase>
+		<frase>
+			<ID>119</ID>
+			<IDGRUPO>115</IDGRUPO>
+			<TÍTULO>BAV 2 GRAU 2:1</TÍTULO>
+			<TEXTO>BLOQUEIO ATRIOVENTRICULAR DO SEGUNDO GRAU 2:1</TEXTO>
+		</frase>
+		<frase>
+			<ID>120</ID>
+			<IDGRUPO>115</IDGRUPO>
+			<TÍTULO>BAV TOTAL</TÍTULO>
+			<TEXTO>BLOQUEIO ATRIOVENTRICULAR DO TOTAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>121</ID>
+			<IDGRUPO>115</IDGRUPO>
+			<TÍTULO>PRÉ-EXCITAÇÃO</TÍTULO>
+			<TEXTO>PADRÃO DE PRÉ-EXCITAÇÃO VENTRICULAR</TEXTO>
+		</frase>
+		<frase>
+			<ID>122</ID>
+			<IDGRUPO>115</IDGRUPO>
+			<TÍTULO>PR CURTO</TÍTULO>
+			<TEXTO>INTERVALO PR CURTO</TEXTO>
+		</frase>
+		<frase>
+			<ID>123</ID>
+			<IDGRUPO>115</IDGRUPO>
+			<TÍTULO>SÍNDROME WPW</TÍTULO>
+			<TEXTO>SÍNDROME DE WOLFF-PARKINSON-WHITE</TEXTO>
+		</frase>
+		<frase>
+			<ID>124</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>lateral alta</TÍTULO>
+			<TEXTO>ALTERAÇÃO DA REPOLARIZAÇÃO VENTRICULAR EM PAREDE LATERAL ALTA</TEXTO>
+		</frase>
+		<frase>
+			<ID>125</ID>
+			<IDGRUPO>63</IDGRUPO>
+			<TÍTULO>inferodorsal</TÍTULO>
+			<TEXTO>ALTERAÇÃO DA REPOLARIZAÇÃO VENTRICULAR EM PAREDE INFERODORSAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>126</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>efeito dielétrico</TÍTULO>
+			<TEXTO>EFEITO DIELÉTRICO</TEXTO>
+		</frase>
+		<frase>
+			<ID>127</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>QTc aumentado</TÍTULO>
+			<TEXTO>INTERVALO QTcorrigido (QTc) AUMENTADO</TEXTO>
+		</frase>
+		<frase>
+			<ID>128</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>ecg normal</TÍTULO>
+			<TEXTO>ELETROCARDIOGRAMA DENTRO DOS LIMITES DA NORMALIDADE PARA O SEXO, IDADE E BIOTIPO</TEXTO>
+		</frase>
+		<frase>
+			<ID>129</ID>
+			<IDGRUPO>73</IDGRUPO>
+			<TÍTULO>bradicardia</TÍTULO>
+			<TEXTO>BRADICARDIA SINUSAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>130</ID>
+			<IDGRUPO>19</IDGRUPO>
+			<TÍTULO>PP variável</TÍTULO>
+			<TEXTO>Ritmo sinusal, com intervalos PP variando de acordo com os movimentos respiratórios, dentro dos parâmetros da normalidade para a idade.</TEXTO>
+		</frase>
+		<frase>
+			<ID>131</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TÍTULO>ritmo atrial multifocal</TÍTULO>
+			<TEXTO>RITMO ATRIAL MULTIFOCAL</TEXTO>
+		</frase>
+		<frase>
+			<ID>132</ID>
+			<IDGRUPO>69</IDGRUPO>
+			<TÍTULO>batimentos aberrantes</TÍTULO>
+			<TEXTO>BATIMENTOS COM ABERRÂNCIA DE CONDUÇÃO</TEXTO>
+		</frase>
+	</Frases>
+</WinCardio>
+>>>>>>> e34112738e6c4dd9e2a2f127aa1dec61328f2d9c
