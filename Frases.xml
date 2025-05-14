@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WinCardio>
 	<Frases>
-	   <frase>
-			<ID>ID</ID>
-			<IDGRUPO>IDGrupo</IDGRUPO>
-			<TITULO>Titulo</TITULO>
-			<TEXTO>Texto</TEXTO>
-		</frase>
 		<frase>
 			<ID>19</ID>
 			<IDGRUPO>-1</IDGRUPO>
@@ -53,8 +47,7 @@
 			<ID>58</ID>
 			<IDGRUPO>57</IDGRUPO>
 			<TITULO>Normal</TITULO>
-			<TEXTO>
-			ELETROCARDIOGRAMA DE REPOUSO
+			<TEXTO>ELETROCARDIOGRAMA DE REPOUSO
 
 LAUDO
 
@@ -67,7 +60,7 @@ DURAÇÃO E ORIENTAÇÃO:
 Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
 
 Duração P:  &lt;@DuracaoP@&gt; 
-Amplitude P:  &lt;@AmplitudeP_DII@&gt;  
+Amplitude P:  &lt;@AmplitudeP+_DII@&gt;     
 Intervalo PR:  &lt;@DuracaoPR@&gt; 
 Duração QRS:  &lt;@DuracaoQRS@&gt; 
 Eixos P-QRS-T:  &lt;@SAP@&gt; / &lt;@SAQRS@&gt; / &lt;@SAT@&gt; 
@@ -94,8 +87,7 @@ ELETROCARDIOGRAMA DENTRO DOS LIMITES  DA NORMALIDADE PARA SEXO, IDADE E BIOTIPO<
 		<frase>
 			<ID>61</ID>
 			<IDGRUPO>60</IDGRUPO>
-			<TITULO>1- BRE
-</TITULO>
+			<TITULO>1- BRE</TITULO>
 			<TEXTO>BLOQUEIO DO RAMO ESQUERDO</TEXTO>
 		</frase>
 		<frase>
@@ -163,7 +155,7 @@ ELETROCARDIOGRAMA DENTRO DOS LIMITES  DA NORMALIDADE PARA SEXO, IDADE E BIOTIPO<
 			<IDGRUPO>57</IDGRUPO>
 			<TITULO>FA</TITULO>
 			<TEXTO>
-         ELETROCARDIOGRAMA DE REPOUSO
+ELETROCARDIOGRAMA DE REPOUSO
 
 LAUDO
 
@@ -189,38 +181,32 @@ RITMO DE FIBRILAÇÃO ATRIAL
 		<frase>
 			<ID>73</ID>
 			<IDGRUPO>-1</IDGRUPO>
-			<TITULO>09 - conclusão
-</TITULO>
+			<TITULO>09 - conclusão</TITULO>
 			<TEXTO>0</TEXTO>
 		</frase>
 		<frase>
 			<ID>74</ID>
 			<IDGRUPO>73</IDGRUPO>
-			<TITULO>taquicardia
-</TITULO>
+			<TITULO>taquicardia</TITULO>
 			<TEXTO>TAQUICARDIA SINUSAL</TEXTO>
 		</frase>
 		<frase>
 			<ID>75</ID>
 			<IDGRUPO>66</IDGRUPO>
-			<TITULO>SBIATRIAL
-</TITULO>
+			<TITULO>SBIATRIAL</TITULO>
 			<TEXTO>SOBRECARGA BIATRIAL</TEXTO>
 		</frase>
 		<frase>
 			<ID>76</ID>
 			<IDGRUPO>63</IDGRUPO>
-			<TITULO>discretas e inespecíficas
-</TITULO>
-			<TEXTO>ALTERAÇÕES DISCRETAS E INESPECÍFICAS DA REPOLARIZAÇÃO VENTRICULAR
-</TEXTO>
+			<TITULO>discretas e inespecíficas</TITULO>
+			<TEXTO>ALTERAÇÕES DISCRETAS E INESPECÍFICAS DA REPOLARIZAÇÃO VENTRICULAR</TEXTO>
 		</frase>
 		<frase>
 			<ID>77</ID>
 			<IDGRUPO>57</IDGRUPO>
 			<TITULO>alterado</TITULO>
-			<TEXTO>
-			ELETROCARDIOGRAMA DE REPOUSO
+			<TEXTO>ELETROCARDIOGRAMA DE REPOUSO
 
 LAUDO
 
@@ -233,7 +219,7 @@ DURAÇÃO E ORIENTAÇÃO:
 Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
 
 Duração P:  &lt;@DuracaoP@&gt; 
-Amplitude P:  &lt;@AmplitudeP_DII@&gt;  
+Amplitude P:  &lt;@AmplitudeP+_DII@&gt; 
 Intervalo PR:  &lt;@DuracaoPR@&gt; 
 Duração QRS:  &lt;@DuracaoQRS@&gt; 
 Eixos P-QRS-T:  &lt;@SAP@&gt; / &lt;@SAQRS@&gt; / &lt;@SAT@&gt; 
@@ -242,14 +228,12 @@ Intervalo QT/QTc:  &lt;@DuracaoQT@&gt; / &lt;@DuracaoQTC@&gt;
 
 CONCLUSÃO:
 
-RITMO SINUSAL
-</TEXTO>
+RITMO SINUSAL</TEXTO>
 		</frase>
 		<frase>
 			<ID>78</ID>
 			<IDGRUPO>73</IDGRUPO>
-			<TITULO>atrial ectópico
-</TITULO>
+			<TITULO>atrial ectópico</TITULO>
 			<TEXTO>RITMO ATRIAL ECTÓPICO</TEXTO>
 		</frase>
 		<frase>
@@ -262,8 +246,7 @@ RITMO SINUSAL
 			<ID>80</ID>
 			<IDGRUPO>57</IDGRUPO>
 			<TITULO>marcapasso</TITULO>
-			<TEXTO>
-			ELETROCARDIOGRAMA DE REPOUSO
+			<TEXTO>ELETROCARDIOGRAMA DE REPOUSO
 
 LAUDO
 
@@ -366,11 +349,31 @@ ESTIMULAÇÃO ELÉTRICA CARDÍACA ARTIFICIAL</TEXTO>
 			<TEXTO>0</TEXTO>
 		</frase>
 		<frase>
+			<ID>134</ID>
+			<IDGRUPO>52</IDGRUPO>
+			<TITULO>cabo trocado</TITULO>
+			<TEXTO>ELETROCARDIOGRAMA DE REPOUSO
+
+LAUDO
+
+
+RITMO:
+Ritmo sinusal.
+
+DURAÇÃO E ORIENTAÇÃO:
+
+Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
+
+
+CONCLUSÃO:
+
+CABO TROCADO</TEXTO>
+		</frase>
+		<frase>
 			<ID>95</ID>
 			<IDGRUPO>94</IDGRUPO>
 			<TITULO>normal</TITULO>
-			<TEXTO>
-			ELETROCARDIOGRAMA DE REPOUSO
+			<TEXTO>ELETROCARDIOGRAMA DE REPOUSO
 
 LAUDO
 
@@ -446,11 +449,16 @@ OBS: ECG realizado às</TEXTO>
 			<TEXTO>ALTERAÇÃO DA REPOLARIZAÇÃO VENTRICULAR EM PAREDES INFERIOR E ANTEROLATERAL</TEXTO>
 		</frase>
 		<frase>
+			<ID>135</ID>
+			<IDGRUPO>59</IDGRUPO>
+			<TITULO>Frase1</TITULO>
+			<TEXTO/>
+		</frase>
+		<frase>
 			<ID>104</ID>
 			<IDGRUPO>57</IDGRUPO>
 			<TITULO>bradicardia/normal</TITULO>
-			<TEXTO>
-			ELETROCARDIOGRAMA DE REPOUSO
+			<TEXTO>ELETROCARDIOGRAMA DE REPOUSO
 
 LAUDO
 
@@ -494,6 +502,34 @@ ELETROCARDIOGRAMA MORFOLOGICAMENTE NORMAL PARA IDADE, SEXO E BIOTIPO</TEXTO>
 			<TEXTO>ÁREA ELETRICAMENTE INATIVA INFERODORSAL</TEXTO>
 		</frase>
 		<frase>
+			<ID>136</ID>
+			<IDGRUPO>57</IDGRUPO>
+			<TITULO>ritmo atrial ectópico</TITULO>
+			<TEXTO>ELETROCARDIOGRAMA DE REPOUSO
+
+LAUDO
+
+
+RITMO:
+Ritmo atrial ectópico.
+
+DURAÇÃO E ORIENTAÇÃO:
+
+Frequência cardíaca:  &lt;@FrequênciaCardíaca@&gt; 
+
+Duração P: *
+Amplitude P: *
+Intervalo PR: *
+Duração QRS:  &lt;@DuracaoQRS@&gt; 
+Eixos P-QRS-T:  &lt;@SAP@&gt; / &lt;@SAQRS@&gt; / &lt;@SAT@&gt; 
+Intervalo QT/QTc:  &lt;@DuracaoQT@&gt; / &lt;@DuracaoQTC@&gt; 
+
+
+CONCLUSÃO:
+
+RITMO ATRIAL ECTÓPICO</TEXTO>
+		</frase>
+		<frase>
 			<ID>108</ID>
 			<IDGRUPO>63</IDGRUPO>
 			<TITULO>difusa</TITULO>
@@ -504,7 +540,7 @@ ELETROCARDIOGRAMA MORFOLOGICAMENTE NORMAL PARA IDADE, SEXO E BIOTIPO</TEXTO>
 			<IDGRUPO>94</IDGRUPO>
 			<TITULO>alterado</TITULO>
 			<TEXTO>
-			ELETROCARDIOGRAMA DE REPOUSO
+ELETROCARDIOGRAMA DE REPOUSO
 
 LAUDO
 
